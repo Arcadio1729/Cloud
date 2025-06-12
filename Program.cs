@@ -34,7 +34,12 @@ app.MapGet("/weatherforecast", () =>
 .WithName("GetWeatherForecast");
 
 app.MapGet("/welcome", () => "I am testing git repo");
+app.MapGet("/check-request", (HttpContext ctx) =>
+{
+    var payload = ctx.Request.Headers.Cookie.ToString();
 
+    return payload; 
+});
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
