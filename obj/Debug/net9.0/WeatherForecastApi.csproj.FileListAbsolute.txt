@@ -26,3 +26,11 @@ C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Debug\net9.0\refint\WeatherForecastA
 C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Debug\net9.0\WeatherForecastApi.pdb
 C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Debug\net9.0\WeatherForecastApi.genruntimeconfig.cache
 C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Debug\net9.0\ref\WeatherForecastApi.dll
+C:\ja\Cloud\Pipeline\WeatherForecastApi\bin\Debug\net9.0\publish\web.config
+C:\ja\Cloud\Pipeline\WeatherForecastApi\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\bin\Debug\net9.0\publish\appsettings.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\bin\Debug\net9.0\publish\WeatherForecastApi.deps.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\bin\Debug\net9.0\publish\WeatherForecastApi.runtimeconfig.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\bin\Debug\net9.0\publish\WeatherForecastApi.staticwebassets.endpoints.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Debug\net9.0\WeatherForecastApi.sourcelink.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
