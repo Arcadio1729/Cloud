@@ -1,0 +1,9 @@
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Release\net9.0\PubTmp\Out\WeatherForecastApi.exe
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Release\net9.0\PubTmp\Out\WeatherForecastApi.dll
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Release\net9.0\PubTmp\Out\WeatherForecastApi.deps.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Release\net9.0\PubTmp\Out\WeatherForecastApi.runtimeconfig.json
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Release\net9.0\PubTmp\Out\WeatherForecastApi.pdb
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\ja\Cloud\Pipeline\WeatherForecastApi\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
